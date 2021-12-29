@@ -1,0 +1,4 @@
+A vertex class for opengl in C++
+
+Linux user: install GLM dev package
+Windows user: just change the include path to where you have GLM
